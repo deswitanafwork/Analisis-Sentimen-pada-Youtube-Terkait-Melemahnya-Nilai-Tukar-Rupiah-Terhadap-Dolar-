@@ -1,4 +1,4 @@
-# Analisis-Sentimen-pada-Youtube-Terkait-Melemahnya-Nilai-Tukar-Rupiah-Terhadap-Dolar-
+# Analisis Sentimenpada Youtube Terkait Melemahnya Nilai Tukar Rupiah Terhadap Dolar
 End-to-end data analysis and clustering of Sentimen pada Youtube Terkait Melemahnya Nilai Tukar Rupiah Terhadap Dolar  using Python and K-Prototypes.
 Mengubah ribuan komentar mentah dari YouTube menjadi wawasan sentimen publik yang terstruktur. Proyek ini menganalisis opini masyarakat Indonesia terkait melemahnya nilai tukar Rupiah terhadap Dolar AS menggunakan algoritma Naive Bayes.
 
